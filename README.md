@@ -3,6 +3,10 @@
 ## Overview
 This project focuses on fine-tuning a sentiment analysis model using data augmentation techniques. The primary goal is to enhance the model's performance by augmenting the training data with back-translation and synonym replacement methods.
 
+## Finetuned Model
+[This](https://github.com/dhyeydoshi/roberta-finetuned-model)
+contains two fine-tuned models i.e PyTorch and Tensorflow
+
 ## Notebooks
 The project consists of three main Jupyter notebooks:
 
